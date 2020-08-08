@@ -1,2 +1,0 @@
-# MyCode
-Covid19IntegrationInSalesforce
